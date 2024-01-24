@@ -24,3 +24,6 @@ java ValidaRut
 ````
 
 <p align="justify"> Luego, sigue las instrucciones en pantalla para ingresar un RUT y validar su formato y dígito verificador.</p>
+
+<hr>
+<p align="right">marely</p>
