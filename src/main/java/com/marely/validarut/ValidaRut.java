@@ -33,7 +33,7 @@ public class ValidaRut {
     /*
     Este método valida el dato ingresado, verificando si corresponde al formato establecido, para posteriormente realizar el proceso de validación.
      */
-   /**
+    /**
     * The function "validarDato" checks if a given string matches a specific pattern.
     * 
     * @param dato The parameter "dato" is a string that represents a data value.
