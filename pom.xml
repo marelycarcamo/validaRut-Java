@@ -11,4 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.marely.validarut.ValidaRut</exec.mainClass>
     </properties>
+    <name>validaRut</name>
 </project>
