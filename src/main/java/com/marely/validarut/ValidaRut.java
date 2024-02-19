@@ -18,7 +18,7 @@ public class ValidaRut {
             String rut;
 
             while (true) {
-                System.out.println("Ingrese rut: ");
+                System.out.println("Ingrese rut: ");  // (RUT).<!-- rut de ejemplo: 11223344-k -->
                 rut = scanner.nextLine();
                 if (validarDato(rut)) {
                     System.out.println(validarRut(rut.split("-")[0],rut.split("-")[1].toUpperCase()) ? "verdadero" : "falso");
